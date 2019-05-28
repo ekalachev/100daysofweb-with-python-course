@@ -1,17 +1,29 @@
 {% extends "base.html" %}
 
 {% block content %}
+<style>
+	.tasks{
+		display: block;
+		color: blue;
+		margin: 5px;
+	}
+</style>
 <h1>My tasks:</h1>
 <button class="tasks">Task 1</button>
 <button class="tasks">Task 2</button>
 <button class="tasks">Task 3</button>
 
 <script>
-		var tasks = document.getElementsByClassName('tasks');
-		for (var i = 0; i < tasks.length; i++) {
-			tasks[i].onclick = function (e) {
-				alert(e.target.innerText);
+	var tasks = document.getElementsByClassName('tasks');
+	for (var i = 0; i < tasks.length; i++) {
+		tasks[i].onclick = function (e) {
+			alert(e.target.innerText + ' has done!');
+			this.remove();
+
+			if (document.getElementsByClassName('tasks').length === 0) {
+				alert('All tasks have done!');
 			}
 		}
-	</script>
+	}
+</script>
 {% endblock %}
