@@ -1,0 +1,2 @@
+To run project:
+- install 
