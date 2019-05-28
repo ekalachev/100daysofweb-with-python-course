@@ -1,8 +1,17 @@
 {% extends "base.html" %}
 
 {% block content %}
-	<h1>My tasks:</h1>
-	<li>Task 1</li>
-	<li>Task 2</li>
-	<li>Task 3</li>
+<h1>My tasks:</h1>
+<button class="tasks">Task 1</button>
+<button class="tasks">Task 2</button>
+<button class="tasks">Task 3</button>
+
+<script>
+		var tasks = document.getElementsByClassName('tasks');
+		for (var i = 0; i < tasks.length; i++) {
+			tasks[i].onclick = function (e) {
+				alert(e.target.innerText);
+			}
+		}
+	</script>
 {% endblock %}
