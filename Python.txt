@@ -1,6 +1,7 @@
 Strings:
 word = "Word"
 
+"{:.1f}".format(10.3333333) = 10.3
 f'Some text {word} another text' - string formating
 len(word) - length of a string
 word[1:] - "ord"
@@ -13,3 +14,24 @@ Numbers
 10 / 3 = 3.33333333333
 10 // 3 = 3
 10 % 3 = 1
+
+10 * 3 = 30
+10 ** 3 = 1000 (power)
+
+rount(2.9) = 3
+abs(-2.9) = 2.9
+
+Loops
+numbers = [5, 2, 3, 4, 7]
+for x_count in numbers:
+    print("x" * x_count)
+
+xxxxx
+xx
+xxx
+xxxx
+xxxxxxx
+
+for x in range(5):
+    for y in range(3):
+        print(f"({x}, {y})")
