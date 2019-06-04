@@ -1,0 +1,15 @@
+Strings:
+word = "Word"
+
+f'Some text {word} another text' - string formating
+len(word) - length of a string
+word[1:] - "ord"
+word[1:-1] - "or"
+word[:2] - "Wo"
+word.find('Some word or character') - returns start index
+'Some word or character' in word - returns True or False
+
+Numbers
+10 / 3 = 3.33333333333
+10 // 3 = 3
+10 % 3 = 1
