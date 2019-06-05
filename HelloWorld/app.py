@@ -1,55 +1,28 @@
-import utils
-
-numbers = [1, 2, 4, 5, 2, 10, 2, 2, 6, 7, 2, 7]
-
-# numbers_set = set()
-#
-# for number in numbers:
-#     numbers_set.add(number)
-#
-# print(numbers_set)
-
-# --------------------------
-
-# numbers_dict = dict()
-#
-# for number in numbers:
-#     if number in numbers_dict:
-#         count = numbers_dict.get(number) + 1
-#         numbers_dict[number] = count
-#     else:
-#         numbers_dict[number] = 1
-#
-# print(numbers_dict)
-
-# --------------------------
+import openpyxl as xl
+from openpyxl.chart import BarChart, Reference
 
 
-# class Array:
-#     @staticmethod
-#     def remove_duplicates(numbers_in):
-#         numbers_set = set()
-#         for number in numbers_in:
-#             numbers_set.add(number)
-#
-#         return numbers_set
-#
-#
-# array = Array()
-# print(array.remove_duplicates(numbers))
+def process_workbook(filename):
+    wb = xl.load_workbook(filename)
+    sheet = wb['Sheet1']
 
-# class Person:
-#     def __init__(self, name):
-#         self.name = name
-#
-#     def talk(self):
-#         print(f"Hello! My name is {self.name}")
-#
-#
-# person = Person("David")
-# person.talk()
+    for row in range(2, sheet.max_row + 1):
+        cell = sheet.cell(row, 3)
+        corrected_price = cell.value * 0.9
+        corrected_price_cell = sheet.cell(row, 4)
+        corrected_price_cell.value = corrected_price
 
-# -----------------------
+    values = Reference(sheet,
+                       min_row=2,
+                       max_row=sheet.max_row,
+                       min_col=4,
+                       max_col=4)
 
-maximum = utils.find_max(numbers)
-print(maximum)
+    chart = BarChart()
+    chart.add_data(values)
+    sheet.add_chart(chart, 'e2')
+
+    wb.save('transactions2.xlsx')
+
+
+process_workbook('transactions.xlsx')
