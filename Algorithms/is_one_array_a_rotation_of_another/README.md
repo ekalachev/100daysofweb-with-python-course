@@ -1,4 +1,4 @@
-#Is One Array a Rotation of Another? (Python)
+# Is One Array a Rotation of Another? (Python)
 
 Write a function that returns True if one array is a rotation of another.
 

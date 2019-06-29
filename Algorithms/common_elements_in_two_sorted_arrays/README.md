@@ -1,4 +1,4 @@
-#Common Elements in Two Sorted Arrays (Python)
+# Common Elements in Two Sorted Arrays (Python)
 
 Write a function that returns the common elements (as an array) between two sorted arrays of integers (ascending order).
 
