@@ -2,18 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="121c9b0d-4738-4ffe-96cc-1d779550e5b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithms/huffman-encode/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/one_way_strings/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/FractionalKnapsack/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/fractional-knapsack/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/FractionalKnapsack/knapsack-input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/fractional-knapsack/knapsack-input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/HuffmanEncode/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/MaxNumber/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/max-number/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TwoNumbersFromArrayWhichGiveParticularResult/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/two-numbers-from-array-which-give-particular-result/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common_elements_in_two_sorted_arrays/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/common_elements_in_two_sorted_arrays/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/is_one_array_a_rotation_of_another/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/is_one_array_a_rotation_of_another/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/most_frequent/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/most_frequent/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/non_repeating_character/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/non_repeating_character/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/common_elements_in_two_sorted_arrays/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/common_elements_in_two_sorted_arrays/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/fractional-knapsack/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/fractional-knapsack/knapsack-input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/huffman-encode/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/is_one_array_a_rotation_of_another/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/is_one_array_a_rotation_of_another/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/max-number/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/most_frequent/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/most_frequent/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/non_repeating_character/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/non_repeating_character/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/one_way_strings/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/one_way_strings/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/two-numbers-from-array-which-give-particular-result/app.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,17 +26,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithms/one_way_strings/app.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -40,6 +34,13 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&amp;gt;</find>
+      <find>&lt;(.*?)&gt;</find>
+      <find>&amp;nbsp;</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,6 +53,10 @@
         <option value="$PROJECT_DIR$/Algorithms/HuffmanEncode/app.py" />
         <option value="$PROJECT_DIR$/Algorithms/non_repeating_character/app.py" />
         <option value="$PROJECT_DIR$/Algorithms/one_way_strings/app.py" />
+        <option value="$PROJECT_DIR$/Algorithms/non_repeating_character/README.md" />
+        <option value="$PROJECT_DIR$/Algorithms/most_frequent/README.md" />
+        <option value="$PROJECT_DIR$/Algorithms/is_one_array_a_rotation_of_another/README.md" />
+        <option value="$PROJECT_DIR$/Algorithms/common_elements_in_two_sorted_arrays/README.md" />
       </list>
     </option>
   </component>
@@ -64,7 +69,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -72,15 +76,11 @@
               <item name="100daysofweb-with-python-course" type="b2602c69:ProjectViewProjectNode" />
               <item name="100daysofweb-with-python-course" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="100daysofweb-with-python-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofweb-with-python-course" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -166,10 +166,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.pytest in app.py" />
       <item itemvalue="Python tests.pytest for app.test" />
       <item itemvalue="Python tests.pytest in app.py (1)" />
       <item itemvalue="Python tests.pytest in app.py (2)" />
+      <item itemvalue="Python tests.pytest in app.py" />
     </list>
     <recent_temporary>
       <list>
@@ -194,9 +194,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_app_py - 2019.06.28 at 19h 44m 59s.xml">
-      <configuration name="pytest in app.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_in_app_py - 2019.06.28 at 19h 45m 18s.xml">
       <configuration name="pytest in app.py" configurationId="tests" />
     </history-entry>
@@ -224,12 +221,14 @@
     <history-entry file="pytest_in_app_py_(2) - 2019.06.29 at 13h 17m 09s.xml">
       <configuration name="pytest in app.py (2)" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_in_app_py_(2) - 2019.06.29 at 13h 39m 53s.xml">
+      <configuration name="pytest in app.py (2)" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -318,8 +317,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/one_way_strings/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        <state relative-caret-position="-125" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/two-numbers-from-array-which-give-particular-result/app.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/non_repeating_character/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/one_way_strings/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/most_frequent/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="2" selection-start-column="2" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/is_one_array_a_rotation_of_another/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="2" selection-start-column="2" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/common_elements_in_two_sorted_arrays/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="2" selection-start-column="2" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
