@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="121c9b0d-4738-4ffe-96cc-1d779550e5b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithms/HuffmanEncode/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/MaxNumber/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FractionalKnapsack/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/FractionalKnapsack/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FractionalKnapsack/knapsack-input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/FractionalKnapsack/knapsack-input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/music.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/transactions.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/transactions.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/huffman-encode/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/one_way_strings/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/FractionalKnapsack/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/fractional-knapsack/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/FractionalKnapsack/knapsack-input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/fractional-knapsack/knapsack-input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/HuffmanEncode/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/MaxNumber/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/max-number/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoNumbersFromArrayWhichGiveParticularResult/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/two-numbers-from-array-which-give-particular-result/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common_elements_in_two_sorted_arrays/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/common_elements_in_two_sorted_arrays/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/is_one_array_a_rotation_of_another/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/is_one_array_a_rotation_of_another/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/most_frequent/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/most_frequent/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non_repeating_character/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/non_repeating_character/app.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,33 +22,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/FractionalKnapsack/app.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="35" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/MaxNumber/app.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithms/HuffmanEncode/app.py">
+        <entry file="file://$PROJECT_DIR$/Algorithms/one_way_strings/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="345">
+              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -66,22 +50,13 @@
         <option value="$PROJECT_DIR$/FractionalKnapsack/app.py" />
         <option value="$PROJECT_DIR$/Algorithms/MaxNumber/app.py" />
         <option value="$PROJECT_DIR$/Algorithms/HuffmanEncode/app.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/100daysofweb-with-python-course.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/Algorithms/non_repeating_character/app.py" />
+        <option value="$PROJECT_DIR$/Algorithms/one_way_strings/app.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="846" />
-    <option name="width" value="834" />
+    <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
@@ -102,18 +77,6 @@
               <item name="100daysofweb-with-python-course" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="100daysofweb-with-python-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofweb-with-python-course" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="HuffmanEncode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofweb-with-python-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofweb-with-python-course" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="MaxNumber" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -121,6 +84,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -140,53 +104,81 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Huffman">
-    <configuration name="Huffman" type="PythonConfigurationType" factoryName="Python">
+  <component name="RunManager" selected="Python tests.pytest in app.py (2)">
+    <configuration name="pytest for app.test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="100daysofweb-with-python-course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms/HuffmanEncode" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms/non_repeating_character" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/HuffmanEncode/app.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;app.test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="pytest in app.py (1)" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="100daysofweb-with-python-course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms/MaxNumber" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms/most_frequent" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/MaxNumber/app.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Algorithms/most_frequent/app.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in app.py (2)" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="100daysofweb-with-python-course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms/one_way_strings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Algorithms/one_way_strings/app.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in app.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="100daysofweb-with-python-course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms/non_repeating_character" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Algorithms/non_repeating_character/app.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.app" />
-      <item itemvalue="Python.Huffman" />
+      <item itemvalue="Python tests.pytest in app.py" />
+      <item itemvalue="Python tests.pytest for app.test" />
+      <item itemvalue="Python tests.pytest in app.py (1)" />
+      <item itemvalue="Python tests.pytest in app.py (2)" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in app.py (2)" />
+        <item itemvalue="Python tests.pytest in app.py (1)" />
+        <item itemvalue="Python tests.pytest for app.test" />
+        <item itemvalue="Python tests.pytest in app.py" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -201,33 +193,79 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_app_py - 2019.06.28 at 19h 44m 59s.xml">
+      <configuration name="pytest in app.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_app_py - 2019.06.28 at 19h 45m 18s.xml">
+      <configuration name="pytest in app.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_app_py - 2019.06.28 at 19h 45m 30s.xml">
+      <configuration name="pytest in app.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_app_test - 2019.06.28 at 19h 45m 37s.xml">
+      <configuration name="pytest for app.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_app_test - 2019.06.28 at 19h 46m 03s.xml">
+      <configuration name="pytest for app.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_app_test - 2019.06.28 at 19h 46m 15s.xml">
+      <configuration name="pytest for app.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_app_test - 2019.06.28 at 19h 47m 24s.xml">
+      <configuration name="pytest for app.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_app_py_(1) - 2019.06.28 at 19h 47m 36s.xml">
+      <configuration name="pytest in app.py (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_app_py_(2) - 2019.06.29 at 12h 47m 04s.xml">
+      <configuration name="pytest in app.py (2)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_app_py_(2) - 2019.06.29 at 13h 17m 09s.xml">
+      <configuration name="pytest in app.py (2)" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="846" y="0" width="834" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5092251" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.4996986" weight="0.32959184" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50030136" side_tool="true" weight="0.32959184" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996986" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996986" weight="0.32959184" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32959184" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4996986" weight="0.32959184" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50030136" side_tool="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithms/huffman-encode/app.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithms/huffman-encode/app.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithms/MaxNumber/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/MaxNumber/__init__.py" />
     <entry file="file://$PROJECT_DIR$/HelloWorld/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -237,7 +275,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/FractionalKnapsack/app.py">
+    <entry file="file://$PROJECT_DIR$/Algorithms/huffman-encode/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/max-number/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/fractional-knapsack/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="35" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="35" />
@@ -247,17 +302,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/MaxNumber/app.py">
+    <entry file="file://$PROJECT_DIR$/Algorithms/non_repeating_character/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/HuffmanEncode/app.py">
+    <entry file="file://$PROJECT_DIR$/Algorithms/most_frequent/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="525">
+          <caret line="35" selection-start-line="35" selection-end-line="36" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/one_way_strings/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
         </state>
       </provider>
     </entry>
